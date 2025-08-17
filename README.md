@@ -1,2 +1,2 @@
 # ClipBoard-Plus-Plus
-No clipboard love from Apple? ClipBoard++ has your back.
+No clipboard love from Apple? ClipPop has your back.
